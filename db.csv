@@ -1,0 +1,79 @@
+Naam1,Naam2,wins,losses
+Benjamin,Kasper,0,0
+Benjamin,Sebastiaan,0,0
+Benjamin,Nam,0,0
+Benjamin,Mae,0,0
+Benjamin,Michiel,0,0
+Benjamin,Lisa,1,0
+Benjamin,Sander,0,1
+Benjamin,Wouter,0,0
+Benjamin,Wim,0,0
+Benjamin,Ella,0,0
+Benjamin,Gert Jan,0,0
+Benjamin,Philo,0,0
+Kasper,Sebastiaan,0,0
+Kasper,Nam,0,0
+Kasper,Mae,0,0
+Kasper,Michiel,0,1
+Kasper,Lisa,0,1
+Kasper,Sander,0,0
+Kasper,Wouter,0,0
+Kasper,Wim,0,0
+Kasper,Ella,0,0
+Kasper,Gert Jan,0,0
+Kasper,Philo,0,0
+Sebastiaan,Nam,0,0
+Sebastiaan,Mae,0,0
+Sebastiaan,Michiel,1,0
+Sebastiaan,Lisa,0,0
+Sebastiaan,Sander,0,0
+Sebastiaan,Wouter,0,0
+Sebastiaan,Wim,0,0
+Sebastiaan,Ella,0,0
+Sebastiaan,Gert Jan,0,0
+Sebastiaan,Philo,0,0
+Nam,Mae,0,0
+Nam,Michiel,0,0
+Nam,Lisa,0,0
+Nam,Sander,0,0
+Nam,Wouter,0,0
+Nam,Wim,0,0
+Nam,Ella,0,0
+Nam,Gert Jan,0,0
+Nam,Philo,0,0
+Mae,Michiel,0,1
+Mae,Lisa,0,0
+Mae,Sander,0,0
+Mae,Wouter,0,0
+Mae,Wim,0,0
+Mae,Ella,0,0
+Mae,Gert Jan,0,0
+Mae,Philo,0,0
+Michiel,Lisa,1,0
+Michiel,Sander,0,0
+Michiel,Wouter,0,0
+Michiel,Wim,0,0
+Michiel,Ella,0,0
+Michiel,Gert Jan,0,0
+Michiel,Philo,0,0
+Lisa,Sander,0,0
+Lisa,Wouter,0,0
+Lisa,Wim,0,0
+Lisa,Ella,0,0
+Lisa,Gert Jan,0,0
+Lisa,Philo,0,0
+Sander,Wouter,0,0
+Sander,Wim,0,0
+Sander,Ella,0,0
+Sander,Gert Jan,0,0
+Sander,Philo,0,0
+Wouter,Wim,0,0
+Wouter,Ella,0,0
+Wouter,Gert Jan,0,0
+Wouter,Philo,0,0
+Wim,Ella,0,0
+Wim,Gert Jan,0,0
+Wim,Philo,0,0
+Ella,Gert Jan,0,0
+Ella,Philo,0,0
+Gert Jan,Philo,0,0

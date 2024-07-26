@@ -1,0 +1,156 @@
+@font-face {
+    font-family: RO Sans;
+    font-weight: 400;
+    font-style: normal;
+    src: url(/webfonts/RO-SansWebText-Regular.woff2) format("woff2"),
+    url(/webfonts/RO-SansWebText-Regular.woff) format("woff");
+    font-display: swap
+}
+
+@font-face {
+    font-family: RO Sans;
+    font-weight: 400;
+    font-style: italic;
+    src: url(/webfonts/RO-SansWebText-Italic.woff2) format("woff2"),
+    url(/webfonts/RO-SansWebText-Italic.woff) format("woff");
+    font-display: swap
+}
+
+@font-face {
+    font-family: RO Sans;
+    font-weight: 700;
+    font-style: normal;
+    src: url(/webfonts/RO-SansWebText-Bold.woff2) format("woff2"),
+    url(/webfonts/RO-SansWebText-Bold.woff) format("woff");
+    font-display: swap
+}
+
+body {
+    font-family: "RO Sans", Calibri, sans-serif;
+    line-height: 1.5;
+	font-size: 16px;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 0;
+}
+
+.h1 .h3, h1, h3 {
+	font-weight: regular;
+}
+
+.header-white {
+    background: top url('/assets/basislogo.svg') no-repeat;
+    background-color: white;
+	align-items: center;
+	justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+	  padding-left: 51vw;
+	  padding-right: 30px;
+    color: black;
+	font-family: RO serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 13px;
+}
+
+.header-color {
+	background: top url('/assets/basislogo.svg') no-repeat;
+    background-color: #01689b;
+	align-items: center;
+	justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+	  padding-left: 51vw;
+	  padding-right: 30px;
+    color: white;
+	font-family: RO serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 13px;
+}
+
+.header-small {
+    background-color:  #8fcae7;
+	align-items: center;
+	justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+	  padding-left: 30px;
+	  padding-right: 30px;
+    color: white;
+	font-size: 36px;
+    font-weight: 200;
+    font-style: normal;
+    src: url(/webfonts/RO-SansWebText-Regular.woff2) format("woff2"),
+    url(/webfonts/RO-SansWebText-Regular.woff) format("woff");
+    font-display: swap
+}
+
+.nav-bar {
+    background-color:  #01689b;
+    color: white;
+	padding-bottom: 5px;
+	padding-top: 5px; 
+	padding-left: 30px; 
+	font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+    src: url(/webfonts/RO-SansWebText-Regular.woff2) format("woff2"),
+    url(/webfonts/RO-SansWebText-Regular.woff) format("woff");
+    font-display: swap;
+	flex-direction: row;
+}
+
+.nav-link {
+	text-decoration: none;
+	color: white;
+	white-space: pre-wrap; 
+	padding-left: 25px;
+	padding-right: 25px; 
+	padding-bottom: 8px;
+	padding-top: 8px; 
+}
+
+.nav-link:hover {
+    background-color: #d9e8f0;
+	color: black; 
+}
+
+.dropdown-menu > li > a:hover {
+	background-color: #b2d7ee;
+}
+	
+.dropdown-menu > .active > a {
+	background-color: #d9e8f0;
+}
+
+.dropdown-menu > .active > a:hover {
+	background-color: #d9ebf7;
+}
+
+.highcharts-menu-item {
+	background: #b31a5d;
+}
+
+/* Styling links */
+a:link {
+	color: #d9e8f0;
+}
+
+a:hover {
+	color: #d9e8f0;
+}
+
+a:visited {
+	color: #d9e8f0;
+}
+
+
+
+
+/* Leaflet styling */
+.leaflet-container {
+	background: white;
+}
