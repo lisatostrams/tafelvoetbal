@@ -113,7 +113,23 @@ body {
 	padding-top: 8px; 
 }
 
+.nav-link-secret {
+	text-decoration: none;
+	color: #01689b;
+	float: right; 
+	white-space: pre-wrap; 
+	padding-left: 25px;
+	padding-right: 25px; 
+	padding-bottom: 8px;
+	padding-top: 8px; 
+}
+
 .nav-link:hover {
+    background-color: #d9e8f0;
+	color: black; 
+}
+
+.nav-link:active {
     background-color: #d9e8f0;
 	color: black; 
 }

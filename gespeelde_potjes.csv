@@ -1,3 +1,45 @@
 Datum,Team1,Team2,Score team1,Score team2
-22-07-2024,"Benjamin,Lisa","Michiel,Mae",10.0,1.0
-
+22-07-2024,"Benjamin  'The Candyman',Lisa 'LOL'","Michiel 'Verstappen',Mae 'Teflon' ",10.0,1.0
+23-07-2024,"Sebastiaan 'De Muur',Michiel 'Verstappen'","Kasper  'Kardio',Lisa 'LOL'",10.0,9.0
+30-07-2024,"Benjamin  'The Candyman',Sebastiaan 'De Muur'","Michiel 'Verstappen',Lisa 'LOL'",10.0,3.0
+01-08-2024,"Benjamin  'The Candyman',Lisa 'LOL'","Kasper  'Kardio',Sander 'Rocketfuel'",10.0,3.0
+01-08-2024,"Kasper  'Kardio',Michiel 'Verstappen'","Lisa 'LOL',Sander 'Rocketfuel'",10.0,5.0
+05-08-2024,"Michiel 'Verstappen',Sander 'Rocketfuel'","Lisa 'LOL',Sebastiaan 'De Muur'",10.0,9.0
+06-08-2024,"Michiel 'Verstappen',","Lisa 'LOL',Sander 'Rocketfuel'",10.0,0.0
+07-08-2024,"Sebastiaan 'De Muur',","Sander 'Rocketfuel',",10.0,3.0
+08-08-2024,"Linda J.,Sander 'Rocketfuel'","Sebastiaan 'De Muur',Gert Jan",10.0,7.0
+08-08-2024,"Michiel 'Verstappen',","Sebastiaan 'De Muur',",10.0,3.0
+12-08-2024,"Benjamin  'The Candyman',","Lisa 'LOL',",10.0,1.0
+12-08-2024,"Michiel 'Verstappen',Wouter 'Iceman'","Lisa 'LOL',Sebastiaan 'De Muur'",10.0,8.0
+12-08-2024,"Lisa 'LOL',Wouter 'Iceman'","Linda J.,Sander 'Rocketfuel'",10.0,5.0
+12-08-2024,"Benjamin  'The Candyman',","Michiel 'Verstappen',",10.0,6.0
+13-08-2024,"Michiel 'Verstappen',Gert Jan","Sebastiaan 'De Muur',Wouter 'Iceman'",10.0,7.0
+13-08-2024,"Michiel 'Verstappen',Sander 'Rocketfuel'","Kasper  'Kardio',Lisa 'LOL'",10.0,2.0
+13-08-2024,"Sebastiaan 'De Muur',Kasper  'Kardio'","Lisa 'LOL',Wouter 'Iceman'",10.0,3.0
+14-08-2024,"Sebastiaan 'De Muur',Sander 'Rocketfuel'","Kasper  'Kardio',",10.0,2.0
+15-08-2024,"Sebastiaan 'De Muur',","Kasper  'Kardio',Sander 'Rocketfuel'",10.0,8.0
+15-08-2024,"Kasper  'Kardio',Sander 'Rocketfuel'","Sebastiaan 'De Muur',Linda J.",10.0,2.0
+15-08-2024,"Kasper  'Kardio',Lisa 'LOL'","Sander 'Rocketfuel',Gert Jan",10.0,7.0
+15-08-2024,"Michiel 'Verstappen',Sebastiaan 'De Muur'","Wouter 'Iceman',Sander 'Rocketfuel'",10.0,8.0
+16-08-2024,"Sebastiaan 'De Muur',",",Lisa 'LOL'",10.0,3.0
+19-08-2024,"Lisa 'LOL',Michiel 'Verstappen'","Sebastiaan 'De Muur',Wouter 'Iceman'",10.0,5.0
+19-08-2024,"Sebastiaan 'De Muur',Gert Jan","Lisa 'LOL',",10.0,2.0
+20-08-2024,"Sebastiaan 'De Muur',Michiel 'Verstappen'","Lisa 'LOL',Gert Jan",10.0,4.0
+20-08-2024,"Sander 'Rocketfuel',Wouter 'Iceman'","Lisa 'LOL',Sebastiaan 'De Muur'",10.0,6.0
+20-08-2024,"Michiel 'Verstappen',Benjamin  'The Candyman'","Lisa 'LOL',Sander 'Rocketfuel'",10.0,1.0
+20-08-2024,"Benjamin  'The Candyman',","Lisa 'LOL',Gert Jan",10.0,2.0
+22-08-2024,"Sebastiaan 'De Muur',Sander 'Rocketfuel'","Benjamin  'The Candyman',Wim",10.0,5.0
+26-08-2024,"Lisa 'LOL',","Linda  'Zweethandjes',",10.0,6.0
+26-08-2024,"Kasper  'Kardio',Sebastiaan 'De Muur'","Linda  'Zweethandjes',Michiel 'Verstappen'",10.0,8.0
+29-08-2024,"Sander 'Rocketfuel',Sebastiaan 'De Muur'","Wouter 'Iceman',Kasper  'Kardio'",10.0,6.0
+29-08-2024,"Michiel 'Verstappen',","Kasper  'Kardio',",10.0,5.0
+29-08-2024,"Kasper  'Kardio',Sebastiaan 'De Muur'","Sander 'Rocketfuel',Linda  'Zweethandjes'",10.0,2.0
+29-08-2024,"Sebastiaan 'De Muur',Linda  'Zweethandjes'","Kasper  'Kardio',Sander 'Rocketfuel'",10.0,7.0
+29-08-2024,"Lisa 'LOL',Benjamin  'The Candyman'","Michiel 'Verstappen',Gert Jan",10.0,6.0
+03-09-2024,"Wim,Sebastiaan 'De Muur'","Sander 'Rocketfuel',Kasper  'Kardio'",10.0,6.0
+03-09-2024,"Lisa 'LOL',Wouter 'Iceman'","Sebastiaan 'De Muur',Gert Jan",10.0,8.0
+03-09-2024,"Kasper  'Kardio',Mae 'Teflon' ","Michiel 'Verstappen',Lisa 'LOL'",10.0,6.0
+03-09-2024,"Kasper  'Kardio',Michiel 'Verstappen'","Lisa 'LOL',Mae 'Teflon' ",10.0,2.0
+06-09-2024,"Kasper  'Kardio',Tom 'The Dom' (SIM)","Lisa 'LOL',André (SIM)",10.0,3.0
+06-09-2024,"Kasper  'Kardio',Tom 'The Dom' (SIM)","Lisa 'LOL',André (SIM)",10.0,3.0
+06-09-2024,"Kasper  'Kardio',Mae 'Teflon' ","Lisa 'LOL',Tom 'The Dom' (SIM)",10.0,7

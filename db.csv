@@ -1,79 +1,172 @@
-Naam1,Naam2,wins,losses
-Benjamin,Kasper,0,0
-Benjamin,Sebastiaan,0,0
-Benjamin,Nam,0,0
-Benjamin,Mae,0,0
-Benjamin,Michiel,0,0
-Benjamin,Lisa,1,0
-Benjamin,Sander,0,1
-Benjamin,Wouter,0,0
-Benjamin,Wim,0,0
-Benjamin,Ella,0,0
-Benjamin,Gert Jan,0,0
-Benjamin,Philo,0,0
-Kasper,Sebastiaan,0,0
-Kasper,Nam,0,0
-Kasper,Mae,0,0
-Kasper,Michiel,0,1
-Kasper,Lisa,0,1
-Kasper,Sander,0,0
-Kasper,Wouter,0,0
-Kasper,Wim,0,0
-Kasper,Ella,0,0
-Kasper,Gert Jan,0,0
-Kasper,Philo,0,0
-Sebastiaan,Nam,0,0
-Sebastiaan,Mae,0,0
-Sebastiaan,Michiel,1,0
-Sebastiaan,Lisa,0,0
-Sebastiaan,Sander,0,0
-Sebastiaan,Wouter,0,0
-Sebastiaan,Wim,0,0
-Sebastiaan,Ella,0,0
-Sebastiaan,Gert Jan,0,0
-Sebastiaan,Philo,0,0
-Nam,Mae,0,0
-Nam,Michiel,0,0
-Nam,Lisa,0,0
-Nam,Sander,0,0
-Nam,Wouter,0,0
-Nam,Wim,0,0
-Nam,Ella,0,0
-Nam,Gert Jan,0,0
-Nam,Philo,0,0
-Mae,Michiel,0,1
-Mae,Lisa,0,0
-Mae,Sander,0,0
-Mae,Wouter,0,0
-Mae,Wim,0,0
-Mae,Ella,0,0
-Mae,Gert Jan,0,0
-Mae,Philo,0,0
-Michiel,Lisa,1,0
-Michiel,Sander,0,0
-Michiel,Wouter,0,0
-Michiel,Wim,0,0
-Michiel,Ella,0,0
-Michiel,Gert Jan,0,0
-Michiel,Philo,0,0
-Lisa,Sander,0,0
-Lisa,Wouter,0,0
-Lisa,Wim,0,0
-Lisa,Ella,0,0
-Lisa,Gert Jan,0,0
-Lisa,Philo,0,0
-Sander,Wouter,0,0
-Sander,Wim,0,0
-Sander,Ella,0,0
-Sander,Gert Jan,0,0
-Sander,Philo,0,0
-Wouter,Wim,0,0
-Wouter,Ella,0,0
-Wouter,Gert Jan,0,0
-Wouter,Philo,0,0
-Wim,Ella,0,0
-Wim,Gert Jan,0,0
-Wim,Philo,0,0
-Ella,Gert Jan,0,0
-Ella,Philo,0,0
-Gert Jan,Philo,0,0
+Naam1,Naam2,wins,losses,games
+Benjamin  'The Candyman',,3.0,0.0,3.0
+Benjamin  'The Candyman',André (SIM),0.0,0.0,0.0
+Benjamin  'The Candyman',Gertjan 'The Spindoctor' ,0.0,0.0,0.0
+Benjamin  'The Candyman',Kasper  'Kardio',0.0,0.0,0.0
+Benjamin  'The Candyman',Linda  'Zweethandjes',0.0,0.0,0.0
+Benjamin  'The Candyman',Linda J.,0.0,0.0,0.0
+Benjamin  'The Candyman',Lisa 'LOL',3.0,0.0,3.0
+Benjamin  'The Candyman',Mae 'Teflon' ,0.0,0.0,0.0
+Benjamin  'The Candyman',Michiel 'Verstappen',1.0,0.0,1.0
+Benjamin  'The Candyman',Nam,0.0,0.0,0.0
+Benjamin  'The Candyman',Philo,0.0,0.0,0.0
+Benjamin  'The Candyman',Sander 'Rocketfuel',0.0,1.0,1.0
+Benjamin  'The Candyman',Sebastiaan 'De Muur',1.0,0.0,1.0
+Benjamin  'The Candyman',Toby,0.0,0.0,0.0
+Benjamin  'The Candyman',Tom 'The Dom' (SIM),0.0,0.0,0.0
+Benjamin  'The Candyman',Vera,0.0,0.0,0.0
+Benjamin  'The Candyman',Wim,0.0,1.0,1.0
+Benjamin  'The Candyman',Wouter 'Iceman',0.0,0.0,0.0
+Gertjan 'The Spindoctor' ,,0.0,0.0,0.0
+Gertjan 'The Spindoctor' ,Linda  'Zweethandjes',0.0,0.0,0.0
+Gertjan 'The Spindoctor' ,Linda J.,0.0,0.0,0.0
+Gertjan 'The Spindoctor' ,Philo,0.0,0.0,0.0
+Gertjan 'The Spindoctor' ,Toby,0.0,0.0,0.0
+Gertjan 'The Spindoctor' ,Vera,0.0,0.0,0.0
+Kasper  'Kardio',,0.0,2.0,2.0
+Kasper  'Kardio',André (SIM),0.0,0.0,0.0
+Kasper  'Kardio',Gertjan 'The Spindoctor' ,0.0,0.0,0.0
+Kasper  'Kardio',Linda  'Zweethandjes',0.0,0.0,0.0
+Kasper  'Kardio',Linda J.,0.0,0.0,0.0
+Kasper  'Kardio',Lisa 'LOL',1.0,2.0,3.0
+Kasper  'Kardio',Mae 'Teflon' ,2.0,0.0,2.0
+Kasper  'Kardio',Michiel 'Verstappen',2.0,1.0,3.0
+Kasper  'Kardio',Nam,0.0,0.0,0.0
+Kasper  'Kardio',Philo,0.0,0.0,0.0
+Kasper  'Kardio',Sander 'Rocketfuel',1.0,4.0,5.0
+Kasper  'Kardio',Sebastiaan 'De Muur',3.0,0.0,3.0
+Kasper  'Kardio',Toby,0.0,0.0,0.0
+Kasper  'Kardio',Tom 'The Dom' (SIM),1.0,0.0,1.0
+Kasper  'Kardio',Vera,0.0,0.0,0.0
+Kasper  'Kardio',Wim,0.0,0.0,0.0
+Kasper  'Kardio',Wouter 'Iceman',0.0,1.0,1.0
+Linda  'Zweethandjes',,0.0,1.0,1.0
+Linda  'Zweethandjes',André (SIM),0.0,0.0,0.0
+Linda  'Zweethandjes',Linda J.,0.0,0.0,0.0
+Linda  'Zweethandjes',Toby,0.0,0.0,0.0
+Linda  'Zweethandjes',Tom 'The Dom' (SIM),0.0,0.0,0.0
+Linda  'Zweethandjes',Vera,0.0,0.0,0.0
+Linda J.,,0.0,0.0,0.0
+Linda J.,André (SIM),0.0,0.0,0.0
+Linda J.,Toby,0.0,0.0,0.0
+Linda J.,Tom 'The Dom' (SIM),0.0,0.0,0.0
+Linda J.,Vera,0.0,0.0,0.0
+Lisa 'LOL',,1.0,3.0,4.0
+Lisa 'LOL',Gertjan 'The Spindoctor' ,0.0,2.0,2.0
+Lisa 'LOL',Linda  'Zweethandjes',0.0,0.0,0.0
+Lisa 'LOL',Linda J.,0.0,0.0,0.0
+Lisa 'LOL',Philo,0.0,0.0,0.0
+Lisa 'LOL',Sander 'Rocketfuel',0.0,3.0,3.0
+Lisa 'LOL',Toby,0.0,0.0,0.0
+Lisa 'LOL',Vera,0.0,0.0,0.0
+Lisa 'LOL',Wim,0.0,0.0,0.0
+Lisa 'LOL',Wouter 'Iceman',2.0,1.0,3.0
+Mae 'Teflon' ,,0.0,0.0,0.0
+Mae 'Teflon' ,Gertjan 'The Spindoctor' ,0.0,0.0,0.0
+Mae 'Teflon' ,Linda  'Zweethandjes',0.0,0.0,0.0
+Mae 'Teflon' ,Linda J.,0.0,0.0,0.0
+Mae 'Teflon' ,Lisa 'LOL',0.0,1.0,1.0
+Mae 'Teflon' ,Michiel 'Verstappen',0.0,1.0,1.0
+Mae 'Teflon' ,Philo,0.0,0.0,0.0
+Mae 'Teflon' ,Sander 'Rocketfuel',0.0,0.0,0.0
+Mae 'Teflon' ,Toby,0.0,0.0,0.0
+Mae 'Teflon' ,Vera,0.0,0.0,0.0
+Mae 'Teflon' ,Wim,0.0,0.0,0.0
+Mae 'Teflon' ,Wouter 'Iceman',0.0,0.0,0.0
+Michiel 'Verstappen',,3.0,1.0,4.0
+Michiel 'Verstappen',André (SIM),0.0,0.0,0.0
+Michiel 'Verstappen',Gertjan 'The Spindoctor' ,1.0,1.0,2.0
+Michiel 'Verstappen',Linda  'Zweethandjes',0.0,1.0,1.0
+Michiel 'Verstappen',Linda J.,0.0,0.0,0.0
+Michiel 'Verstappen',Lisa 'LOL',2.0,2.0,4.0
+Michiel 'Verstappen',Philo,0.0,0.0,0.0
+Michiel 'Verstappen',Sander 'Rocketfuel',2.0,0.0,2.0
+Michiel 'Verstappen',Toby,0.0,0.0,0.0
+Michiel 'Verstappen',Tom 'The Dom' (SIM),0.0,0.0,0.0
+Michiel 'Verstappen',Vera,0.0,0.0,0.0
+Michiel 'Verstappen',Wim,0.0,0.0,0.0
+Michiel 'Verstappen',Wouter 'Iceman',1.0,0.0,1.0
+Nam,,0.0,0.0,0.0
+Nam,André (SIM),0.0,0.0,0.0
+Nam,Gertjan 'The Spindoctor' ,0.0,0.0,0.0
+Nam,Linda  'Zweethandjes',0.0,0.0,0.0
+Nam,Linda J.,0.0,0.0,0.0
+Nam,Lisa 'LOL',0.0,0.0,0.0
+Nam,Mae 'Teflon' ,0.0,0.0,0.0
+Nam,Michiel 'Verstappen',0.0,0.0,0.0
+Nam,Philo,0.0,0.0,0.0
+Nam,Sander 'Rocketfuel',0.0,0.0,0.0
+Nam,Toby,0.0,0.0,0.0
+Nam,Tom 'The Dom' (SIM),0.0,0.0,0.0
+Nam,Vera,0.0,0.0,0.0
+Nam,Wim,0.0,0.0,0.0
+Nam,Wouter 'Iceman',0.0,0.0,0.0
+Philo,,0.0,0.0,0.0
+Philo,André (SIM),0.0,0.0,0.0
+Philo,Linda  'Zweethandjes',0.0,0.0,0.0
+Philo,Linda J.,0.0,0.0,0.0
+Philo,Toby,0.0,0.0,0.0
+Philo,Tom 'The Dom' (SIM),0.0,0.0,0.0
+Philo,Vera,0.0,0.0,0.0
+Sander 'Rocketfuel',,0.0,1.0,1.0
+Sander 'Rocketfuel',André (SIM),0.0,0.0,0.0
+Sander 'Rocketfuel',Gertjan 'The Spindoctor' ,0.0,1.0,1.0
+Sander 'Rocketfuel',Linda  'Zweethandjes',0.0,1.0,1.0
+Sander 'Rocketfuel',Linda J.,1.0,1.0,2.0
+Sander 'Rocketfuel',Philo,0.0,0.0,0.0
+Sander 'Rocketfuel',Toby,0.0,0.0,0.0
+Sander 'Rocketfuel',Tom 'The Dom' (SIM),0.0,0.0,0.0
+Sander 'Rocketfuel',Vera,0.0,0.0,0.0
+Sander 'Rocketfuel',Wim,0.0,0.0,0.0
+Sander 'Rocketfuel',Wouter 'Iceman',1.0,1.0,2.0
+Sebastiaan 'De Muur',,3.0,1.0,4.0
+Sebastiaan 'De Muur',André (SIM),0.0,0.0,0.0
+Sebastiaan 'De Muur',Gertjan 'The Spindoctor' ,1.0,2.0,3.0
+Sebastiaan 'De Muur',Linda  'Zweethandjes',1.0,0.0,1.0
+Sebastiaan 'De Muur',Linda J.,0.0,1.0,1.0
+Sebastiaan 'De Muur',Lisa 'LOL',0.0,3.0,3.0
+Sebastiaan 'De Muur',Mae 'Teflon' ,0.0,0.0,0.0
+Sebastiaan 'De Muur',Michiel 'Verstappen',3.0,0.0,3.0
+Sebastiaan 'De Muur',Nam,0.0,0.0,0.0
+Sebastiaan 'De Muur',Philo,0.0,0.0,0.0
+Sebastiaan 'De Muur',Sander 'Rocketfuel',3.0,0.0,3.0
+Sebastiaan 'De Muur',Toby,0.0,0.0,0.0
+Sebastiaan 'De Muur',Tom 'The Dom' (SIM),0.0,0.0,0.0
+Sebastiaan 'De Muur',Vera,0.0,0.0,0.0
+Sebastiaan 'De Muur',Wim,1.0,0.0,1.0
+Sebastiaan 'De Muur',Wouter 'Iceman',0.0,2.0,2.0
+Toby,,0.0,0.0,0.0
+Toby,André (SIM),0.0,0.0,0.0
+Toby,Tom 'The Dom' (SIM),0.0,0.0,0.0
+Toby,Vera,0.0,0.0,0.0
+Tom 'The Dom' (SIM),André (SIM),0.0,0.0,0.0
+Vera,,0.0,0.0,0.0
+Vera,André (SIM),0.0,0.0,0.0
+Vera,Tom 'The Dom' (SIM),0.0,0.0,0.0
+Wim,,0.0,0.0,0.0
+Wim,André (SIM),0.0,0.0,0.0
+Wim,Gertjan 'The Spindoctor' ,0.0,0.0,0.0
+Wim,Linda  'Zweethandjes',0.0,0.0,0.0
+Wim,Linda J.,0.0,0.0,0.0
+Wim,Philo,0.0,0.0,0.0
+Wim,Toby,0.0,0.0,0.0
+Wim,Tom 'The Dom' (SIM),0.0,0.0,0.0
+Wim,Vera,0.0,0.0,0.0
+Wouter 'Iceman',,0.0,0.0,0.0
+Wouter 'Iceman',Gertjan 'The Spindoctor' ,0.0,0.0,0.0
+Wouter 'Iceman',Linda  'Zweethandjes',0.0,0.0,0.0
+Wouter 'Iceman',Linda J.,0.0,0.0,0.0
+Wouter 'Iceman',Philo,0.0,0.0,0.0
+Wouter 'Iceman',Toby,0.0,0.0,0.0
+Wouter 'Iceman',Vera,0.0,0.0,0.0
+Wouter 'Iceman',Wim,0.0,0.0,0.0
+Lisa 'LOL',Tom 'The Dom' (SIM),0.0,1.0,1.0
+Lisa 'LOL',André (SIM),0.0,1.0,1.0
+,Tom 'The Dom' (SIM),0.0,0.0,0.0
+,André (SIM),0.0,0.0,0.0
+Wouter 'Iceman',Tom 'The Dom' (SIM),0.0,0.0,0.0
+Wouter 'Iceman',André (SIM),0.0,0.0,0.0
+Gertjan 'The Spindoctor' ,Tom 'The Dom' (SIM),0.0,0.0,0.0
+Gertjan 'The Spindoctor' ,André (SIM),0.0,0.0,0.0
+Mae 'Teflon' ,Tom 'The Dom' (SIM),0.0,0.0,0.0
+Mae 'Teflon' ,André (SIM),0.0,0.0,0.0
