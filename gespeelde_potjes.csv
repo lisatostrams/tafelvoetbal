@@ -43,4 +43,15 @@ Datum,Team1,Team2,Score team1,Score team2
 06-09-2024,"Kasper  'Kardio',Tom 'The Dom' (SIM)","Lisa 'LOL',André (SIM)",10.0,3.0
 06-09-2024,"Kasper  'Kardio',Tom 'The Dom' (SIM)","Lisa 'LOL',André (SIM)",10.0,3.0
 06-09-2024,"Kasper  'Kardio',Mae 'Teflon' ","Lisa 'LOL',Tom 'The Dom' (SIM)",10.0,7.0
-11-09-2024,"Kasper  'Kardio',Sander 'Rocketfuel'","Lisa 'LOL',Mae 'Teflon' ",10.0,6
+11-09-2024,"Kasper  'Kardio',Sander 'Rocketfuel'","Lisa 'LOL',Mae 'Teflon' ",10.0,6.0
+11-09-2024,"Lisa 'LOL',Sander 'Rocketfuel'","Kasper  'Kardio',",10.0,6.0
+17-09-2024,"Gertjan 'The Spindoctor' ,Kasper  'Kardio'","Michiel 'Verstappen',Mae 'Teflon' ",10.0,9.0
+17-09-2024,"Michiel 'Verstappen',Kasper  'Kardio'","Sander 'Rocketfuel',Mae 'Teflon' ",10.0,2.0
+18-09-2024,"Sander 'Rocketfuel',Wouter 'Iceman'","Kasper  'Kardio',Linda J.",10.0,3.0
+19-09-2024,"Michiel 'Verstappen',Wouter 'Iceman'","Mae 'Teflon' ,Gertjan 'The Spindoctor' ",10.0,9.0
+19-09-2024,"Michiel 'Verstappen',Wouter 'Iceman'","Mae 'Teflon' ,Gertjan 'The Spindoctor' ",10.0,9.0
+25-09-2024,"Sander 'Rocketfuel',Kasper  'Kardio'","Michiel 'Verstappen',Mae 'Teflon' ",10.0,5.0
+25-09-2024,"Sander 'Rocketfuel',","Kasper  'Kardio',",10.0,5.0
+30-09-2024,"Sander 'Rocketfuel',Kasper  'Kardio'","Linda J.,Wouter 'Iceman'",10.0,5.0
+01-10-2024,"Sander 'Rocketfuel',Linda J.","Michiel 'Verstappen',Kasper  'Kardio'",10.0,5.0
+02-10-2024,"Kasper  'Kardio',Mae 'Teflon' ","Toby,Sander 'Rocketfuel'",10.0,4

@@ -23,17 +23,17 @@ Gertjan 'The Spindoctor' ,Linda J.,0.0,0.0,0.0
 Gertjan 'The Spindoctor' ,Philo,0.0,0.0,0.0
 Gertjan 'The Spindoctor' ,Toby,0.0,0.0,0.0
 Gertjan 'The Spindoctor' ,Vera,0.0,0.0,0.0
-Kasper  'Kardio',,0.0,2.0,2.0
+Kasper  'Kardio',,0.0,4.0,4.0
 Kasper  'Kardio',André (SIM),0.0,0.0,0.0
-Kasper  'Kardio',Gertjan 'The Spindoctor' ,0.0,0.0,0.0
+Kasper  'Kardio',Gertjan 'The Spindoctor' ,1.0,0.0,1.0
 Kasper  'Kardio',Linda  'Zweethandjes',0.0,0.0,0.0
-Kasper  'Kardio',Linda J.,0.0,0.0,0.0
+Kasper  'Kardio',Linda J.,0.0,1.0,1.0
 Kasper  'Kardio',Lisa 'LOL',1.0,2.0,3.0
-Kasper  'Kardio',Mae 'Teflon' ,2.0,0.0,2.0
-Kasper  'Kardio',Michiel 'Verstappen',2.0,1.0,3.0
+Kasper  'Kardio',Mae 'Teflon' ,3.0,0.0,3.0
+Kasper  'Kardio',Michiel 'Verstappen',3.0,2.0,5.0
 Kasper  'Kardio',Nam,0.0,0.0,0.0
 Kasper  'Kardio',Philo,0.0,0.0,0.0
-Kasper  'Kardio',Sander 'Rocketfuel',2.0,4.0,6.0
+Kasper  'Kardio',Sander 'Rocketfuel',4.0,4.0,8.0
 Kasper  'Kardio',Sebastiaan 'De Muur',3.0,0.0,3.0
 Kasper  'Kardio',Toby,0.0,0.0,0.0
 Kasper  'Kardio',Tom 'The Dom' (SIM),1.0,0.0,1.0
@@ -56,19 +56,19 @@ Lisa 'LOL',Gertjan 'The Spindoctor' ,0.0,2.0,2.0
 Lisa 'LOL',Linda  'Zweethandjes',0.0,0.0,0.0
 Lisa 'LOL',Linda J.,0.0,0.0,0.0
 Lisa 'LOL',Philo,0.0,0.0,0.0
-Lisa 'LOL',Sander 'Rocketfuel',0.0,3.0,3.0
+Lisa 'LOL',Sander 'Rocketfuel',1.0,3.0,4.0
 Lisa 'LOL',Toby,0.0,0.0,0.0
 Lisa 'LOL',Vera,0.0,0.0,0.0
 Lisa 'LOL',Wim,0.0,0.0,0.0
 Lisa 'LOL',Wouter 'Iceman',2.0,1.0,3.0
 Mae 'Teflon' ,,0.0,0.0,0.0
-Mae 'Teflon' ,Gertjan 'The Spindoctor' ,0.0,0.0,0.0
+Mae 'Teflon' ,Gertjan 'The Spindoctor' ,0.0,2.0,2.0
 Mae 'Teflon' ,Linda  'Zweethandjes',0.0,0.0,0.0
 Mae 'Teflon' ,Linda J.,0.0,0.0,0.0
 Mae 'Teflon' ,Lisa 'LOL',0.0,2.0,2.0
-Mae 'Teflon' ,Michiel 'Verstappen',0.0,1.0,1.0
+Mae 'Teflon' ,Michiel 'Verstappen',0.0,3.0,3.0
 Mae 'Teflon' ,Philo,0.0,0.0,0.0
-Mae 'Teflon' ,Sander 'Rocketfuel',0.0,0.0,0.0
+Mae 'Teflon' ,Sander 'Rocketfuel',0.0,1.0,1.0
 Mae 'Teflon' ,Toby,0.0,0.0,0.0
 Mae 'Teflon' ,Vera,0.0,0.0,0.0
 Mae 'Teflon' ,Wim,0.0,0.0,0.0
@@ -85,7 +85,7 @@ Michiel 'Verstappen',Toby,0.0,0.0,0.0
 Michiel 'Verstappen',Tom 'The Dom' (SIM),0.0,0.0,0.0
 Michiel 'Verstappen',Vera,0.0,0.0,0.0
 Michiel 'Verstappen',Wim,0.0,0.0,0.0
-Michiel 'Verstappen',Wouter 'Iceman',1.0,0.0,1.0
+Michiel 'Verstappen',Wouter 'Iceman',3.0,0.0,3.0
 Nam,,0.0,0.0,0.0
 Nam,André (SIM),0.0,0.0,0.0
 Nam,Gertjan 'The Spindoctor' ,0.0,0.0,0.0
@@ -108,17 +108,17 @@ Philo,Linda J.,0.0,0.0,0.0
 Philo,Toby,0.0,0.0,0.0
 Philo,Tom 'The Dom' (SIM),0.0,0.0,0.0
 Philo,Vera,0.0,0.0,0.0
-Sander 'Rocketfuel',,0.0,1.0,1.0
+Sander 'Rocketfuel',,1.0,1.0,2.0
 Sander 'Rocketfuel',André (SIM),0.0,0.0,0.0
 Sander 'Rocketfuel',Gertjan 'The Spindoctor' ,0.0,1.0,1.0
 Sander 'Rocketfuel',Linda  'Zweethandjes',0.0,1.0,1.0
-Sander 'Rocketfuel',Linda J.,1.0,1.0,2.0
+Sander 'Rocketfuel',Linda J.,2.0,1.0,3.0
 Sander 'Rocketfuel',Philo,0.0,0.0,0.0
-Sander 'Rocketfuel',Toby,0.0,0.0,0.0
+Sander 'Rocketfuel',Toby,0.0,1.0,1.0
 Sander 'Rocketfuel',Tom 'The Dom' (SIM),0.0,0.0,0.0
 Sander 'Rocketfuel',Vera,0.0,0.0,0.0
 Sander 'Rocketfuel',Wim,0.0,0.0,0.0
-Sander 'Rocketfuel',Wouter 'Iceman',1.0,1.0,2.0
+Sander 'Rocketfuel',Wouter 'Iceman',2.0,1.0,3.0
 Sebastiaan 'De Muur',,3.0,1.0,4.0
 Sebastiaan 'De Muur',André (SIM),0.0,0.0,0.0
 Sebastiaan 'De Muur',Gertjan 'The Spindoctor' ,1.0,2.0,3.0
@@ -155,7 +155,7 @@ Wim,Vera,0.0,0.0,0.0
 Wouter 'Iceman',,0.0,0.0,0.0
 Wouter 'Iceman',Gertjan 'The Spindoctor' ,0.0,0.0,0.0
 Wouter 'Iceman',Linda  'Zweethandjes',0.0,0.0,0.0
-Wouter 'Iceman',Linda J.,0.0,0.0,0.0
+Wouter 'Iceman',Linda J.,0.0,1.0,1.0
 Wouter 'Iceman',Philo,0.0,0.0,0.0
 Wouter 'Iceman',Toby,0.0,0.0,0.0
 Wouter 'Iceman',Vera,0.0,0.0,0.0

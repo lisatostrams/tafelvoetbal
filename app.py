@@ -281,7 +281,7 @@ def generate_text(naam):
     nemesis = df_melted.value_counts().reset_index() 
     nemesis = nemesis[nemesis.frenemy!= '']
     try:
-        nemesis_str = f'Je nemesis is {nemesis.iloc[0].frenemy}. Je hebt {nemesis.iloc[0][0]} keer verloren van deze nemesis.'
+        nemesis_str = f'Je nemesis is {nemesis.iloc[0].frenemy}. Je hebt {nemesis.iloc[0][1]} keer verloren van deze nemesis.'
     except:
         nemesis_str = 'Je hebt geen nemesis want je verliest nooit. Dit kwalificeert je om afdelingshoofd van SPA te zijn.' 
         
@@ -295,7 +295,7 @@ def generate_text(naam):
     nemesis = df_melted.value_counts().reset_index() 
     nemesis = nemesis[nemesis.frenemy!= '']
 
-    pwn_str = f'Je pwned {nemesis.iloc[0].frenemy}. Je hebt {nemesis.iloc[0].frenemy} {nemesis.iloc[0][0]} keer verslagen. Je domineert!'
+    pwn_str = f'Je pwned {nemesis.iloc[0].frenemy}. Je hebt {nemesis.iloc[0].frenemy} {nemesis.iloc[0][1]} keer verslagen. Je domineert!'
 
     return friend_str, bad_friend_str,nemesis_str, pwn_str
 
